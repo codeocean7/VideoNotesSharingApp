@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67325576527",
+    "project_id": "videonotessharingapp",
+    "storage_bucket": "videonotessharingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67325576527:android:dcb73e37a5c2664e00b13a",
+        "android_client_info": {
+          "package_name": "com.zealsoft.videonotessharingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67325576527-rp7e9h8cbj9ugo3a839ee1rlsnfqat5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxS9UPBqDf5xLDzL12ZSF_DSStFY15SC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67325576527-rp7e9h8cbj9ugo3a839ee1rlsnfqat5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
